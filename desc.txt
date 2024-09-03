@@ -1,0 +1,11 @@
+//brunocoio
+https://console.cloud.google.com/apis/credentials?authuser=1&project=social-login-434111&supportedpurview=project
+
+//configuração localhost e permissão específica de user para efetuarem login
+
+//ID do cliente
+829561579891-l4tg8gcp56vufst8m6p9odvsetbe4rp1.apps.googleusercontent.com
+//Chave secreta do cliente
+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
+//Data da criação
+30 de agosto de 2024 09:01:50 GMT-3
